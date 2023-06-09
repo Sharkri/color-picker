@@ -1,0 +1,11 @@
+{
+  "name": "Color Picker",
+  "version": "1.0.0",
+  "description": "Picks a color using a color input",
+  "manifest_version": 3,
+  "author": "Sharkri",
+  "action": {
+    "default_popup": "index.html",
+    "default_title": "Color Picker"
+  }
+}
